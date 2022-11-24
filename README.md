@@ -1,2 +1,4 @@
-# bootstrap-odev-2
-bootstrap-odev-2
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
+
+![alt](assets/hmw2.png)
